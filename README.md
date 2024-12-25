@@ -25,7 +25,7 @@ A self-driven developer who loves diving into intricate problems and creating ef
 <code><img height="30" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 
 
-<a href="https://github.com/DineshReddyK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DineshReddyK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dinesh's github stats" /></a> | <a href="https://github.com/DineshReddyK/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshReddyK&layout=compact&theme=buefy&hide_border=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DineshReddyK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dinesh's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshReddyK&layout=compact&theme=buefy&hide_border=true"/>
 
 <!--
 **DineshReddyK/DineshReddyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
