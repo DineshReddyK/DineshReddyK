@@ -32,6 +32,8 @@ A self-driven developer who loves diving into intricate problems and creating ef
 <!--
   <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 -->
+
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshreddyk&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true) ![Dinesh's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshReddyK&show_icons=true&theme=transparent&hide_border=true) 
 </p>
 
 
