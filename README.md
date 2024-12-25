@@ -7,6 +7,7 @@ A self-driven developer who loves diving into intricate problems and creating ef
 - ❤️ I love writing Python, and building fun experiments
 - 🌱 I’m currently learning Data Science, PyTorch, Streamlit, AWS and more
 
+\
 **Tech Stack**
 
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -25,13 +26,12 @@ A self-driven developer who loves diving into intricate problems and creating ef
 <code><img height="30" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="30" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 
-
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DineshReddyK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dinesh's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshReddyK&layout=compact&theme=buefy&hide_border=true"/>
--->
-
+<br><br>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=DineshReddyK" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<img alt="Github Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=DineshReddyK"/> 
+<!--
+  <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+-->
 </p>
 
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshreddyk&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true) ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshReddyK&show_icons=true&theme=transparent&hide_border=true) 
