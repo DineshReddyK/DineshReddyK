@@ -25,19 +25,12 @@ A self-driven developer who loves diving into intricate problems and creating ef
 <code><img height="30" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DineshReddyK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dinesh's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshReddyK&layout=compact&theme=buefy&hide_border=true"/>
-
 <!--
-**DineshReddyK/DineshReddyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DineshReddyK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dinesh's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshReddyK&layout=compact&theme=buefy&hide_border=true"/>
 -->
+
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=DineshReddyK" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
+
