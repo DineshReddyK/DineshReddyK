@@ -34,4 +34,4 @@ A self-driven developer who loves diving into intricate problems and creating ef
 -->
 </p>
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshreddyk&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true) ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshReddyK&show_icons=true&theme=transparent&hide_border=true) 
+
