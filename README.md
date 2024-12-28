@@ -8,8 +8,8 @@ A self-driven developer who loves diving into intricate problems and creating ef
 - 🌱 I’m currently learning Data Science, PyTorch, Streamlit, AWS and more
 
 
-<h2 align="left">Tech Stack</h2>
-
+<h2 align="center">Tech Stack</h2>
+<div align="center">
 <code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" alt="cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="50" alt="go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"></code>
@@ -25,7 +25,7 @@ A self-driven developer who loves diving into intricate problems and creating ef
 <code><img height="50" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 <code><img height="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="50" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-
+</div>
 <br>
 <!--
 <p style="display: flex; justify-contect: space-between;">
@@ -33,8 +33,8 @@ A self-driven developer who loves diving into intricate problems and creating ef
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 -->
 
-<h2 align="left"> Github Stats </h2>
-<div align="left">
+<h2 align="center"> Github Stats </h2>
+<div align="center">
   <a href="https://github.com/dineshreddyk">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshreddyk&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=vommits&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
@@ -45,8 +45,8 @@ A self-driven developer who loves diving into intricate problems and creating ef
 <br>
 
 <!--Trophies Section-->   
-<h2 align="left">Github Trophies</h2>
-<p align="left">
+<h2 align="center">Github Trophies</h2>
+<p align="center">
   <a href="https://github.com/dineshreddyk">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dineshreddyk&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
@@ -58,8 +58,8 @@ A self-driven developer who loves diving into intricate problems and creating ef
 <br>
 
 <!--Contribution Graph-->
-<h2 align="left"> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
-<div align="left">
+<h2 align="center"> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
+<div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshreddyk&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 <br>
